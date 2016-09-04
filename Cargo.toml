@@ -1,0 +1,11 @@
+[package]
+name = "regs"
+version = "0.1.0"
+authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
+
+keywords = ["hardware", "registers", "regs", "register"]
+description = "hardware specific registers"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nathanfaucett/rs-registers.git"
+homepage = "https://github.com/nathanfaucett/rs-registers"
